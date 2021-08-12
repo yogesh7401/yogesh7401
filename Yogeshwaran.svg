@@ -3,4 +3,5 @@
   font-family: Arial Black;
   dominant-baseline: central;
   text-anchor: middle;
+  background-color: transparent
 }</style></svg>

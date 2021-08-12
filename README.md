@@ -28,7 +28,7 @@
 
 
 
-<img src="https://www.doitlean.com/images/waves.svg" width="100%"/>
+<img src="https://github.com/yogesh7401/yogesh7401/blob/main/wave.svg" width="100%"/>
  
 <!--
 **yogesh7401/yogesh7401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm 
 
-![yogesh7401](https://github.com/yogesh7401/yogesh7401/blob/main/Yogeshwaran.svg)
+![yogesh7401](https://raw.github.com/yogesh7401/yogesh7401/main/Yogeshwaran.svg)
 ## 😎 About me
 <samp> A Final Year CSE student at <a href="https://dmice.ac.in/">@DMICE </a> and aspiring software developer  :computer: </samp> <br/>
 <samp> Intrested in working on Frontend, Backend, API's, Databases and currently learning new things </samp> <br />
@@ -28,7 +28,7 @@
 
 
 
-<img src="https://github.com/yogesh7401/yogesh7401/blob/main/wave.svg" width="100%"/>
+<img src="https://raw.github.com/yogesh7401/yogesh7401/main/wave.svg" width="100%"/>
  
 <!--
 **yogesh7401/yogesh7401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 ![yogesh7401](https://raw.github.com/yogesh7401/yogesh7401/main/Yogeshwaran.svg)
 ## 😎 About me
-<samp> A Final Year CSE student at <a href="https://dmice.ac.in/">@DMICE </a> and aspiring software developer  :computer: </samp> <br/>
+Aspiring software developer  :computer: </samp> <br/>
 <samp> Intrested in working on Frontend, Backend, API's, Databases and currently learning new things </samp> <br />
 <samp> I enjoy playing cricket🏏and watching anime is my recent hobby </samp>
 
